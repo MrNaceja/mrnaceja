@@ -11,7 +11,7 @@
 </div>
 
 ## Estou estudando/pretendo estudar
-> <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,styledcomponents,unity" />
+> <img src="https://skillicons.dev/icons?i=laravel,typescript,react,nodejs,styledcomponents,unity" />
 
 ## Possuo conhecimentos em
 > <img src="https://skillicons.dev/icons?i=photoshop,figma,php,javascript,postgres,html,css,mysql" />

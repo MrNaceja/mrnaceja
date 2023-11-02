@@ -3,7 +3,7 @@
 <div align="center">
   
 # Me chamo Eduardo Toriani, mas pode me chamar de Naceja
-#### Trabalho como programador back-end, sou apaixonado por design e front-end ❤
+#### Trabalho como programador full stack, sou apaixonado por design e front-end ❤
 <a href="https://portfolio-naceja.vercel.app">Veja meu portfólio</a>
 
   <img src="https://github-profile-trophy.vercel.app/?username=mrnaceja&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />

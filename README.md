@@ -12,10 +12,10 @@
 </div>
 
 ## Estou estudando/pretendo estudar
-> <img src="https://skillicons.dev/icons?i=laravel,typescript,react,nodejs,styledcomponents,unity" />
+> <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,styledcomponents,unity" />
 
 ## Possuo conhecimentos em
-> <img src="https://skillicons.dev/icons?i=photoshop,figma,php,javascript,postgres,html,css,mysql" />
+> <img src="https://skillicons.dev/icons?i=typescript,nodejs,react,photoshop,figma,php,javascript,postgres,html,css,tailwindcss" />
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:38087e,100:8200ff&height=120&section=footer"/>

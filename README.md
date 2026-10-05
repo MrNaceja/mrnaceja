@@ -2,7 +2,6 @@
 
 <div align="center">
 #### Sou um desenvolvedor fullstack com foco em front-end. Sou apaixonado por design e inovação ❤
-
   <img src="https://github-profile-trophy-roan.vercel.app/?username=mrnaceja&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   <img height="235em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrnaceja&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -13,6 +12,6 @@
 ## Meu foco e proficiência/habilidade esta voltado para:
 > <img src="https://skillicons.dev/icons?i=typescript,nodejs,react,tailwindcss" />
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=150&color=gradient&reversal=false&textBg=false&fontSize=32&fontColor=ffff&section=footer"/>
+[![Timeline](https://github-timeline.frangolab.com/badge/MrNaceja.svg)](https://github-timeline.frangolab.com/u/MrNaceja)
 
 
